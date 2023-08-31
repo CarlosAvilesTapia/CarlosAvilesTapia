@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos Avilés</h1>
-<h3 align="center">A passionate android developer from Chile.</h3>
 
+<p align="center">
+    <img src="https://media.tenor.com/8sU4G3a8TpcAAAAC/ralph-ralph-wiggum.gif" alt="Texto alternativo" />
+</p>
+
+<h3 align="center">A passionate android developer from Chile.</h3>
 - 📫 How to reach me **cavilest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosavilestapia&show_icons=true&locale=en&layout=compact" alt="carlosavilestapia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavilestapia&show_icons=true&locale=en" alt="carlosavilestapia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosavilestapia&" alt="carlosavilestapia" /></p>
