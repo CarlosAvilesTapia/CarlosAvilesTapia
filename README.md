@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">A passionate android developer, data analyst (and soon data scientist) from Chile.</h3>
-<h2 align="center">それに加えて、日本語は自分でガンガン勉強中！</h2>
+<h2 align="center">それに加えて、日本語は自分でガンガン勉強中です！</h2>
 
 - 📫 How to reach me **cavilest@gmail.com**
 
